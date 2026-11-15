@@ -13,9 +13,9 @@
 
 #### ООП
 
-7. [ООП - Класс, объект, поля, свойства, методы, конструктор, new](https://example.com)
-8. [Инкапсуляция, модификаторы доступа](https://example.com)
-9. [Абстракция, интерфейсы и наследование](https://example.com)
-10. [Полиморфизм - Virtual, override, base](https://example.com)
-11. [Generic-типы и коллекции - List, Stack, Queue, Dictionary, HashSet](https://example.com)
-12. [Создание собственных Generic-типов - Проблема дублирования кода, Generic-типы, Generic-методы, Ограничения where](https://example.com)
+7. [ООП - Класс, объект, поля, свойства, методы, конструктор, new](https://github.com/zero973/CsharpCourse/tree/main/7%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5)
+8. [Инкапсуляция, модификаторы доступа](https://github.com/zero973/CsharpCourse/tree/main/8%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5)
+9. [Полиморфизм, Абстракция, интерфейсы и наследование](https://github.com/zero973/CsharpCourse/tree/main/9%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5)
+10. [Generic-типы и коллекции - List, Stack, Queue, Dictionary, HashSet](https://github.com/zero973/CsharpCourse/tree/main/10%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5)
+11. [Создание собственных Generic-типов - Проблема дублирования кода, Generic-типы, Generic-методы, Ограничения where](https://github.com/zero973/CsharpCourse/tree/main/11%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5)
+12. [LINQ](https://github.com/zero973/CsharpCourse/tree/main/12%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5)
